@@ -132,6 +132,7 @@ public class MakePretty {
 		MakePretty p = new MakePretty();
 		p.loadDefaults();
 		
+		//The path to the "photo.jpg" file on your system
 		p.loadImg("C:/Users/benja/workspace/Profile/src/photo.jpg");
 		p.imgToPxlArr();
 		
