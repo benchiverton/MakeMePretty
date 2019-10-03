@@ -1,6 +1,6 @@
 # MakeMePretty
 
-## Winner of the Creative Concept Awart
+### Winner of the Creative Concept Award
 
 Program made for 2017 Hackathon!
 
